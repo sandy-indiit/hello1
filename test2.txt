@@ -1,5 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 my name is sandeep. she is a good girl.
 =======
 ssssssssssssssss
 >>>>>>> a5fd64fe2fa7da706595615087d8f9288157b047
+=======
+my name is sandeep. she is a good girl..
+
+
+
+
+swdfghjk...drfghjk
+>>>>>>> 7c844ce0399dc3accbc609d2a068f3ef283edca6
